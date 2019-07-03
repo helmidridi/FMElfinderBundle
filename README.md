@@ -141,7 +141,7 @@ security:
 
 ## Basic configuration
 
-### Add configuration options to your config.yml
+### Add configuration options to your config.yml or fm_elfinder.yaml for Symfony Flex installation
 
 ```yaml
 fm_elfinder:
